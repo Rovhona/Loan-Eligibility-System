@@ -2,7 +2,8 @@
 
 A modern and interactive dashboard for predicting loan eligibility using machine learning, built with **Streamlit**.
 
-![dashboard-preview](https://github.com/Rovhona/Loan-Eligibility-System/assets/page1.png)
+![dashboard-preview](/assets/page1.pngassets/page1.png) and (/assets/page1.pngassets/page2.png)
+
 
 ---
 
