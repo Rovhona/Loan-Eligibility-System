@@ -115,13 +115,7 @@ Use this sample for single prediction testing:
 }
 ```
 
----
 
-## 📸 Screenshots (Coming Soon)
-
-Visuals of the dashboard will be added here.
-
----
 
 ## 🙇‍♂️ Author
 
