@@ -1,0 +1,2 @@
+Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Prediction
+Male,No,0,Graduate,No,2237,0.0,63.0,480.0,0.0,Semiurban,ERROR
