@@ -11,7 +11,7 @@ A modern and interactive dashboard for predicting loan eligibility using machine
 ## ✅ Project Status
 
 > 🚀 **First working version is live!**  
-> We've implemented core features and but still there prediction errors. Ongoing improvements include user experience, export features, and enhanced model performance.
+> We've implemented core features a. Ongoing improvements include user experience, export features, and enhanced model performance.
 
 ---
 
@@ -37,8 +37,7 @@ This dataset contains attributes like:
 - 🧠 Predict loan approval with a trained ML model  
 - ⚙️ Handle both bulk predictions and single applicant input  
 - 📊 View prediction confidence and data distribution  
-- 📥 Download results as CSV or PDF  
-- 📋 View model accuracy, precision, and recall on dashboard  
+
 - 💅 Modern and interactive UI with Streamlit  
 
 ---
@@ -59,14 +58,7 @@ Full training and evaluation in:
 📓 [`Loan_Eligibility_System.ipynb`](Loan_Eligibility_System.ipynb)
 
 ---
-
-## 🔧 Fixes and Enhancements
-
-- ✅ **Prediction Error Fixed**: Ensured feature names at inference match training pipeline  
-- ✅ Integrated a consistent preprocessing pipeline for real-time predictions  
-- ✅ Improved error handling with detailed messages  
-- 📊 Added live model evaluation metrics  
-- 💾 Export predictions as PDF (with charts and summary)  
+ 
 
 ---
 
